@@ -7,7 +7,7 @@ This CLI tool provides various helper functions to perform common tasks such as 
 To install the CLI tool, use the following command:
 
 ```sh
-go install github.com/sondy91/quic@latest
+go install gitlab.com/asonderman/quic@latest
 ```
 
 ## Usage

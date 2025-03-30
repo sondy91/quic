@@ -1,6 +1,6 @@
 package main
 
-import "sondy91/quic/cmd"
+import "asonderman/quic/cmd"
 
 func main() {
 	cmd.Execute()
